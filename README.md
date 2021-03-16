@@ -11,4 +11,4 @@ Each ontology is composed of three items:
 
 ### Knowledge Graph:
 
-Once we have an ontology, if we add specific data points, we can create a knowledge graph. Continuing with our earlier example of a semantic data model of humans, if we add a couple of specific people we can create a graph using them. Effectively, a **knowledge graph is created using ontologies and data**.
+Once we have an ontology, if we add specific data points, we can create a knowledge graph. Continuing with our earlier example of a semantic data model of humans, if we add a couple of specific people we can create a graph using them. Effectively, a ***knowledge graph is created using ontologies and data***.
